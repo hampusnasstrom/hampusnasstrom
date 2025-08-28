@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently giving a talk on the NOMAD Catalysis database in NOMAD at the CoRDI conference: [docs.google.com/presentation/d/1Z_7phMQCaEGq_oa48lRPVpAZT1B1dc34E0y7AiufJio](https://docs.google.com/presentation/d/1Z_7phMQCaEGq_oa48lRPVpAZT1B1dc34E0y7AiufJio)
+
 <!--
 **hampusnasstrom/hampusnasstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
